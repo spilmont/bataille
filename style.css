@@ -1,0 +1,11 @@
+#carteJoueur{
+    width: 71px;
+    height: 96px;
+    border: black solid;
+}
+
+#carteOrdi{
+    width: 71px;
+    height: 96px;
+    border: black solid;
+}
